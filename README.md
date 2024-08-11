@@ -16,7 +16,7 @@
 <!--Social buttons rendered through API calls-->
 <div align="center"> 
   <a href="mailto:nolan.kosmal@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
   </a>
   <a href="https://www.linkedin.com/in/nolan-kosmal-0732b030b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"/>
