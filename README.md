@@ -2,8 +2,16 @@
 
 <!--Outer h1 tag required to align img to center-->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+Nolan's+Profile;"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=400000&lines=Welcome+to+Nolan's+Profile;"/>
 </h1>
+
+<div align="center">
+ 
+ I'm currently a student studying Computer Science with Business Applications at UCR
+
+ I love the outdoors and all things computers.
+
+ </div>
 
 <!--Social buttons rendered through API calls-->
 <div align="center"> 
@@ -15,7 +23,7 @@
   </a>
 </div>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center"> Languages, Frameworks, and Tools </h2>
 
 <br/>
 
