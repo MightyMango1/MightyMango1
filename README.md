@@ -2,7 +2,7 @@
 
 <!--Outer h1 tag required to align img to center-->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira&pause=10000size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+Nolan's+Profile;"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira&pause=10000size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+My+Profile!;"/>
 </h1>
 
 <div align="center">
