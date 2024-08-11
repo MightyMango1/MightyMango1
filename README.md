@@ -23,11 +23,12 @@
   </a>
 </div>
 
-<h2 align="center"> Languages, Frameworks, and Tools </h2>
+
 
 <br/>
 
 <div align="center">
+    <h2 align="center"> Languages, Frameworks, and Tools </h2>
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,c++" /><br>
 </div>
