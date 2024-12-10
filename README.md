@@ -29,5 +29,5 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,cpp,javascript,godot,py" />
-    <img src="https://skillicons.dev/icons?i=nodejs,vscode,github,git,blender,cmake,figma,express,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,vscode,github,cmake,express,docker" /><br>
 </div>
