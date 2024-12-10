@@ -28,6 +28,6 @@
 <h2 align="center"> Languages, Frameworks, and Tools </h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,c++" /><br>
+    <img src="https://skillicons.dev/icons?i=react,html,css,cpp,javascript,godot,py" />
+    <img src="https://skillicons.dev/icons?i=nodejs,vscode,github,git,blender,cmake,figma,express,docker" /><br>
 </div>
